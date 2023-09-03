@@ -1,3 +1,10 @@
 optConfig:
   optOutStrategy: true
 action: issue
+enforceDefault: true
+requireApproval: true
+requireCodeOwnerReviews: true
+approvalCount: 2
+dismissStale: true
+blockForce: true
+enforceOnAdmins: true
